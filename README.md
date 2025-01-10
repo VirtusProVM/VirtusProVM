@@ -4,7 +4,7 @@ ABOUT
 - “ Code is like humor. When you have to explain it, it’s bad.” 
 
 - 👋 Hi, I’m @VirtusProVM
-- 👀 I’m interested in Java Programming,PHP,JS and JQuery
+- 👀 I’m interested in Java Programming and Database Programming.
 
 My soft skills are:
 - creativity
@@ -14,15 +14,17 @@ My soft skills are:
 - patience
 
 My hard skills are:
-- Fullstack Java Programmer(Spring, Hibernate, JPA, JSP, Java Servlet API)
+- Fullstack Java Programmer
 - MySQL
-- PHP
-- JS
-- JQuery
+- JavaFX
+- JSP & Java Servlet API
+- Spring
+- Hibernate & JPA
 -Web Development & Desktop Development
 
 Other intrest:
-- Autodesk AutoCAD
+- Investments
+- Entrepreneurship & Business
 
 Hobbies:
 - Chess
